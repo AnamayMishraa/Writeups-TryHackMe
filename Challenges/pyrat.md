@@ -1,3 +1,3 @@
 ### Pyrat Writeup
 
-[Link](https://cybertified.in/writeup/pyrat-tryhackme)
+Click on the link:[Writeup](https://cybertified.in/writeup/pyrat-tryhackme)
