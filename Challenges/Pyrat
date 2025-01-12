@@ -1,0 +1,3 @@
+### Pyrat Writeup
+
+[Link](https://cybertified.in/writeup/pyrat-tryhackme)
